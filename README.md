@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Osvaldofrancisco-oc
 - 👀 I’m Angolan
-- 🌱 I starded study programming now ...
+- 🌱 I starded study programming 2 years ago ...
 - for now it´s all..
+- I start upload all my project since today.
