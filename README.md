@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Osvaldofrancisco-oc
-- 👀 I’m Angolan
-- 🌱 I starded study programming 2 years ago ...
+- Hi, I’m @Osvaldofrancisco-oc
+- I’m Angolan
+- I am fullstack...
+- Front-end:Html,css,less,javascript,angular..
+- Back-end:Laravel...
 - for now it´s all..
 - I start upload all my project since today.
